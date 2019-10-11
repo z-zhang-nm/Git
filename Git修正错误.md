@@ -38,3 +38,4 @@
 > $~~~~$ commit 6bdbf8219c60d8da9ad352c23628600faaefbe13  
 > $~~~~~~~~~~~~~~~~$ renamed main.py to module.py
 ---
++ 使用`--hard`选项与Git重置命令，它将清除分段区域，它会将HEAD指针重置为特定提交ID的最新提交，并删除本地文件更改
